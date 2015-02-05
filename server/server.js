@@ -1,4 +1,4 @@
-var sys  = require('sys'),
+var sys  = require('util'),
     http = require('http'),
     url  = require('url'),
     ws   = require('./ws.js');
